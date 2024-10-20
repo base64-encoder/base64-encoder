@@ -1,3 +1,3 @@
 C, python, C++, javascript
 
-i use Arch(hyperland) btw
+i use Arch(hyprland) btw
